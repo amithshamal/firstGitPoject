@@ -2,3 +2,4 @@ poem file
 line two
 line three
 new branch line one
+branch3 -- line 1
